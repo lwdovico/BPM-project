@@ -1,1 +1,1 @@
-"# BPM-project" 
+# BPMN and Petri Net for a painting school
